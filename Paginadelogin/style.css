@@ -24,11 +24,15 @@ h1 {
   margin-bottom: 15px;
 }
 
+.form-lg h1 {
+    color: #467302;
+}
+
 h1.title {
   font-size: 45px;
   line-height: 45px;
   margin: 0;
-  text-shadow: 0 0 10px rgba(16, 64, 74, 0.5);
+  text-shadow: 0 0 10px rgba(16, 74, 24, 0.5);
 }
 
 p {
@@ -37,7 +41,7 @@ p {
   line-height: 20px;
   letter-spacing: 0.5px;
   margin: 20px 0 30px;
-  text-shadow: 0 0 10px rgba(16, 64, 74, 0.5);
+  text-shadow: 0 0 10px rgba(16, 74, 26, 0.5);
 }
 
 span {
@@ -46,7 +50,7 @@ span {
 }
 
 a {
-  color: #333;
+  color: #467302;
   font-size: 14px;
   text-decoration: none;
   margin: 15px 0;
@@ -86,8 +90,8 @@ a:hover {
 button {
   position: relative;
   border-radius: 20px;
-  border: 1px solid #4bb6b7;
-  background-color: #4bb6b7;
+  border: 1px solid #467302;
+  background-color: #467302;
   color: #fff;
   font-size: 15px;
   font-weight: 700;
