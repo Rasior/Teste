@@ -14,9 +14,13 @@ p{
 .switch {
     position: relative;
     display: inline-block;
+    top: 21%;
+    left: 49.5%;
     width: 10px;
     height: 10px;
     cursor: pointer;
+    appearance: none;
+    z-index: 1;
 }
 
 .lamp{
